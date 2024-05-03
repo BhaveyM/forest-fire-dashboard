@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 const firebaseConfig = {
-  apiKey: "AIzaSyDrB2Q4oNvOQfLbuUpEkFp5SijgQeAnnG8",
+  apiKey: "",
   authDomain: "forestfire-6e7a4.firebaseapp.com",
   databaseURL: "https://forestfire-6e7a4-default-rtdb.firebaseio.com",
   projectId: "forestfire-6e7a4",
